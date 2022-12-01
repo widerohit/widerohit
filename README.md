@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi, I’m @widerohit
 
-<!--
-**widerohit/widerohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m Interested in Java Development and Technologies Related to It
 
-Here are some ideas to get you started:
+🌱 I’ve Learnt Spring JPA, Spring Boot, Spring JDBC, Spring MVC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞 I’m Looking to Collaborate on Web Development (Full Stack Projects)
+
+👨🎓 I'm Currently Pursuing Post-Graduation Diploma In Advance Computing from CDAC.
+
+📫 How to Reach Me -> You Can Mail Me at widerohit@gmail.com
+
+🖐 Interested In Open Source Projects
