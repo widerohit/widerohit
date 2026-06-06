@@ -23,4 +23,7 @@ I'm a passionate software developer based in Pune, India, focused on building hi
 #### 🛠️ IDE Plugins & Developer Tools
 * **[Trace-Owners](https://github.com/widerohit/Trace-Owners)**: An IntelliJ IDEA plugin that automatically identifies code ownership and traces responsible engineers for specific files or code blocks by seamlessly mapping local IDE selections to Git history and repository configurations.
 
+#### 🖥️ Desktop Applications & Utilities
+* **[Totp-Clipboard](https://github.com/widerohit/Totp-Clipboard)**: A lightweight, offline desktop application designed to streamline multi-factor authentication workflows by securely combining base text with Time-based One-Time Passwords (TOTP) and copying the result instantly to your clipboard.
+
 📫 **Let's connect:** You can reach out to me directly at [widerohit@gmail.com](mailto:widerohit@gmail.com).
